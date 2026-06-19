@@ -37,5 +37,9 @@ for (const data of jsondata)
       expect(actwarningMessage).toBe(expectedMessage);
     }
 
+    function frameworksuccess()
+    {
+      console.log("I have successfully learnt the framework and implemented it in my project with data driven approach and GitHub integration");
+    }
   });
 }
