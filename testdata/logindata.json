@@ -1,0 +1,15 @@
+[
+  {
+    "testName": "valid Login",
+    "email": "johnnyjohnny@gmail.com",
+    "password": "Magenta#2026",
+
+    "expected": "success"
+  },
+  {
+    "testName": "invalid Login with wrong password",
+    "email": "johnnyhnny@gmail.com",
+    "password": "wrongpassword",
+    "expected": "failure"
+  }
+]

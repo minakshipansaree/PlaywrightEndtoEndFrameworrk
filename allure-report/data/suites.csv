@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8045","user can register successfully on tutorials ninja demo @regression","chromium","2026-06-19","passed","2026-06-19","","register.spec.ts","",""
+"","7294","login with valid credentials for invalid Login with wrong password @regression","chromium","2026-06-19","passed","2026-06-19","","Loginusingdatadriven.spec.ts","",""
+"","10578","login with valid credentials for valid Login @regression","chromium","2026-06-19","passed","2026-06-19","","Loginusingdatadriven.spec.ts","",""
